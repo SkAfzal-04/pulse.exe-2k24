@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/pulse.exe-2k24.git/static/css/main.1d3e6312.css",
-    "main.js": "/pulse.exe-2k24.git/static/js/main.000df943.js",
+    "main.js": "/pulse.exe-2k24.git/static/js/main.4c9cf134.js",
     "static/media/dept03.JPG": "/pulse.exe-2k24.git/static/media/dept03.b8bee2de72d932b161fe.JPG",
     "static/media/dept07.JPG": "/pulse.exe-2k24.git/static/media/dept07.8d47d3d1f29b24c2be84.JPG",
     "static/media/dept08.JPG": "/pulse.exe-2k24.git/static/media/dept08.103d9b50a5172e9b7b14.JPG",
+    "static/media/Intro-pulse2k24.mp4": "/pulse.exe-2k24.git/static/media/Intro-pulse2k24.c0df8589acc559f2bdc3.mp4",
     "static/media/dept09.JPG": "/pulse.exe-2k24.git/static/media/dept09.4ec1899c68f14a44ddac.JPG",
-    "static/media/Intro-pulse2k23.mp4": "/pulse.exe-2k24.git/static/media/Intro-pulse2k23.a20c93330531d159e736.mp4",
     "static/media/Semanti.JPG": "/pulse.exe-2k24.git/static/media/Semanti.555466d13e5949871a1c.JPG",
     "static/media/Preksha Rai.jpg": "/pulse.exe-2k24.git/static/media/Preksha Rai.855a782a0b2ed12efb94.jpg",
     "static/media/Avantika Roy.jpg": "/pulse.exe-2k24.git/static/media/Avantika Roy.17e8acf3aef4439b888f.jpg",
@@ -55,10 +55,10 @@
     "static/media/pulse-data.csv": "/pulse.exe-2k24.git/static/media/pulse-data.20860a5bfaaa0801d533.csv",
     "index.html": "/pulse.exe-2k24.git/index.html",
     "main.1d3e6312.css.map": "/pulse.exe-2k24.git/static/css/main.1d3e6312.css.map",
-    "main.000df943.js.map": "/pulse.exe-2k24.git/static/js/main.000df943.js.map"
+    "main.4c9cf134.js.map": "/pulse.exe-2k24.git/static/js/main.4c9cf134.js.map"
   },
   "entrypoints": [
     "static/css/main.1d3e6312.css",
-    "static/js/main.000df943.js"
+    "static/js/main.4c9cf134.js"
   ]
 }
